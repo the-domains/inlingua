@@ -1,0 +1,14 @@
+layout_spectrum: 0.2082631
+typography_spectrum: 0.989428
+color:
+  lightness: 0.04651299
+  brandStrength: 0.07379133
+  saturation: 0.7669991
+  rhythmicContrast: 0.9925544
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: inlingua
