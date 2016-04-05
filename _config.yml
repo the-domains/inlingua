@@ -1,14 +1,26 @@
 layout_spectrum: 0.9080944
-typography_spectrum: 0.6298482
+name: inlingua
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.7849916
   brandStrength: 0.07379133
+  lightness: 0.7849916
   saturation: 0.8288364
   rhythmicContrast: 0.9856661
   brandColors:
-    - '#FFFFFF'
     - '#000000'
-    - '#424143'
-    - '#C8C6C4'
-    - '#FADF4B'
-name: inlingua
+    - '#9B9C99'
+    - '#5D301F'
+    - '#A3654B'
+    - '#EBEADF'
+typography_spectrum: 0.6298482
