@@ -5,4 +5,10 @@ color:
   brandStrength: 0.07379133
   saturation: 0.8288364
   rhythmicContrast: 0.9856661
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#424143'
+    - '#C8C6C4'
+    - '#FADF4B'
 name: inlingua
